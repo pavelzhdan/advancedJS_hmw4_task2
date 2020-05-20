@@ -1,6 +1,6 @@
 {
   "name": "task2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "task2",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,9 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.5",
-    "babel-jest": "^25.4.0",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-jest": "^25.5.1",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.4.2",
     "eslint": "^6.8.0",
@@ -28,7 +28,7 @@
     "eslint-plugin-import": "^2.20.1",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
-    "jest": "^25.4.0",
+    "jest": "^25.5.4",
     "live-server": "^1.2.1",
     "mini-css-extract-plugin": "^0.9.0",
     "webpack": "^4.41.6",
@@ -40,5 +40,13 @@
   },
   "keywords": [
     "homewrork4"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelzhdan/advancedJS_hmw4_task2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pavelzhdan/advancedJS_hmw4_task2/issues"
+  },
+  "homepage": "https://github.com/pavelzhdan/advancedJS_hmw4_task2#readme"
 }

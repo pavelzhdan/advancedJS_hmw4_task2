@@ -1,5 +1,5 @@
 /* eslint-disable linebreak-style */
-import findBy from '../../index';
+import findBy from '../findBy';
 
 test('check to successed search', () => {
   const base = [
